@@ -1,1 +1,3 @@
+# Sentiment Analysis for Policy Formulation
+
 This project aims to give a glimpse into the social media analytics that will eventually play a part in policies being implementation related to climate change. The methodology being used Exploratory Data Analysis and Logistic Regression Modeling of tweets into different categories, based on the sentiments of the tweets. The model's findings can be used to inform future policy decisions, which will be clear and in line with public preferences. With the aid of this initiative, we also intend to increase social media awareness in order to spark more debate and, as a result of these discussions, more policies to stop any permanent effects that human activity is producing can be put in place.
